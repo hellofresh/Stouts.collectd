@@ -7,7 +7,7 @@ collectd_service_autodetect: true   # try to detect collectd_service
 
 # PPA options
 collectd_use_ppa: no                # Use the collectd PPA
-collectd_use_ppa_latest: no         # Don't fix package version to collectd_version
+collectd_use_latest: no         # Don't fix package version to collectd_version
 collectd_ppa_source: 'ppa:collectd/collectd-5.5'
 
 # Source options
